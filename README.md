@@ -1,7 +1,7 @@
-##At first import the sql file and then run the project using Netbeans or any IDE.
+## At first import the sql file and then run the project using Netbeans or any IDE.
 
-#Here Used technologuy :
+# Here Used technologuy :
 
-*JAVA 
-*MYSQL
-*JDBC
+* JAVA 
+* MYSQL
+* JDBC
